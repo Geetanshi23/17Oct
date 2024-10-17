@@ -7,7 +7,8 @@ public class Calculator{
 		System.out.println(c);
 		c = a-b;
 		System.out.println(c);
-		
+		c = a*b;
+		System.out.println(c);
 		System.out.println("Welcome");
     }
 }
